@@ -4,10 +4,10 @@ install w/:
 goinstall github.com/JayTeeSF/Helloer
 
 from your code you can:
-  include "helloer"
+  include "Helloer"
 
 which gives you the string returning method:
-   helloer.SayHello()
+   Helloer.SayHello()
 
 ls -al $GOROOT/pkg/*/github.com/JayTeeSF/
 

@@ -1,4 +1,4 @@
-package helloer
+package Helloer
 import "testing"
 
 func TestSayHello(t *testing.T) {

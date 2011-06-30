@@ -1,7 +1,7 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=github.com/JayTeeSF/helloer
+TARG=github.com/JayTeeSF/Helloer
 GOFILES=\
-	helloer.go\
+	Helloer.go\
 
 include $(GOROOT)/src/Make.pkg
