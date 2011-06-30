@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-import Hey "github.com/JayTeeSF/Helloer"
+import Helloer "github.com/JayTeeSF/Helloer"
 
 func main() {
-  fmt.Printf(Hey.SayHello())
+  fmt.Printf(Helloer.SayHello())
 }
