@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=helloer
+TARG=github.com/JayTeeSF/helloer
 GOFILES=\
 	helloer.go\
 
